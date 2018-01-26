@@ -5,6 +5,8 @@ public class sampleGit {
 		System.out.println("github");
 		
 		
+		System.out.println("modified some changes");
+		
 		
 	}
 
